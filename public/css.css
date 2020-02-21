@@ -98,34 +98,13 @@
     padding:10px 20px 20px 20px;
     }
 
-    #top,#pages {
+    #top{
     width:660px;
     margin:0 auto;
     background:#FFF;
     padding:8px;
     }
 
-    #pages a {
-    margin:3px;
-    padding:3px;
-    color:#175CBB;
-    border:1px dashed #D5E4F4;
-    background:#F4FAFF;
-    }
-
-    #pages a:hover {
-    border:1px solid #7AB7F3;
-    color:#fff;
-    background:#7AB7F3;
-    text-decoration:none;
-    }
-
-    #pages span {
-    margin:3px;
-    padding:3px;
-    color:#fff;
-    background:#7AB7F3;
-    }
 
     #top {
     height:60px;
