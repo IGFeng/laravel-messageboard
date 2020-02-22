@@ -15,5 +15,7 @@
                   <textarea name="reply" cols="50" rows="6" id="reply_textarea">{{$content->reply}}</textarea><br>
                   <input type="submit" style="margin-left:80px;margin-top:10px;" value="回复" />
     </form>
+    </div>
+</div>
 
 @endsection
